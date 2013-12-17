@@ -1,0 +1,26 @@
+{
+  "family": "seedit",
+  "name": "vhelper",
+  "version": "1.0.0",
+  "description": "data analytics helper",
+  "homepage": "https://github.com/airyland/vhelper",
+  "author": "airyland",
+  "maintainers": [
+    "airyland"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/airyland/vhelper.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["vhelper.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
